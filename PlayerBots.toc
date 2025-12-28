@@ -9,4 +9,5 @@
 Locale.lua
 Locale\zhCN.lua
 Locale\zhTW.lua
+Locale\ruRU.lua
 PlayerBots.lua
